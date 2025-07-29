@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS transactions (
+  id SERIAL PRIMARY KEY,
+  sender_id INTEGER REFERENCES users(id) ON DELETE SET NULL,
+  receiver_id INTEGER REFERENCES users(id) ON DELETE SET NULL,
+  amount NUMERIC(12, 2) NOT NULL,
+  type VARCHAR(10) NOT NULL CHECK (type IN ('credit', 'debit')),
+  note TEXT,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
