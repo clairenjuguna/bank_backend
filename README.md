@@ -47,11 +47,7 @@ banking-backend/
 ├── package.json
 └── README.md
 
-yaml
-Copy
-Edit
 
----
 
 ## ⚙️ Setup Instructions
 
@@ -67,9 +63,7 @@ npm install
 3. Configure Environment Variables
 Create a .env file in the root:
 
-ini
-Copy
-Edit
+
 PORT=5000
 DB_HOST=localhost
 DB_USER=your_db_user
@@ -79,14 +73,10 @@ JWT_SECRET=your_jwt_secret
 🔒 Replace with your actual database credentials.
 
 4. Run the Server (Dev Mode)
-bash
-Copy
-Edit
+
 npm run dev
 5. Build for Production
-bash
-Copy
-Edit
+
 npm run build
 npm start
 🔌 API Endpoints
@@ -104,9 +94,7 @@ Transactions
 POST /api/transactions/transfer – Transfer money to another user
 
 ✅ Running Tests
-bash
-Copy
-Edit
+
 npm test
 📜 License
 MIT License © 2025 Charity Njuguna
