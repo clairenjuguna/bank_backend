@@ -56,9 +56,7 @@ banking-backend/
 git clone https://github.com/clairenjuguna/bank_backend.git
 cd bank_backend
 2. Install Dependencies
-bash
-Copy
-Edit
+
 npm install
 3. Configure Environment Variables
 Create a .env file in the root:
