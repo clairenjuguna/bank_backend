@@ -102,6 +102,8 @@ Testing User registration and login using APIDOG
 
 Only admins are bable to see all customers
 <img width="1003" height="654" alt="image" src="https://github.com/user-attachments/assets/16ba84a7-81aa-45dc-8571-c699e0966428" />
+<img width="1003" height="654" alt="image" src="https://github.com/user-attachments/assets/9afae146-fce7-4d3d-bbb8-5b59173a49a7" />
+
 
 
 
