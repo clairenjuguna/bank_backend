@@ -99,6 +99,14 @@ npm test
 📜 License
 MIT License © 2025 Charity Njuguna
 
+Testing User registration and login using APIDOG
+<img width="1009" height="648" alt="image" src="https://github.com/user-attachments/assets/7406678f-e358-4eb7-9a7a-f013d2c2ec5d" />
+
+Only admins are bable to see all customers
+<img width="1003" height="654" alt="image" src="https://github.com/user-attachments/assets/16ba84a7-81aa-45dc-8571-c699e0966428" />
+
+
+
 
 
 ---
